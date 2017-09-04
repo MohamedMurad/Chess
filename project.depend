@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450943412 source:c:\users\tgt\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1450943412 source:d:\1 computer\1-programming\chess project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
